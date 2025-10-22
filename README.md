@@ -67,10 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirarafat&count_private=true&show_icons=true&theme=tokyonight)
-<![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirarafat&layout=compact&theme=tokyonight&langs_count=8)
-
 ---
 
 ## 🌐 Connect With Me
