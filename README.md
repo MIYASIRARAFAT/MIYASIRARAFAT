@@ -68,8 +68,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirarafat&count_private=true&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirarafat&layout=compact&theme=tokyonight&langs_count=8)
+<![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirarafat&count_private=true&show_icons=true&theme=tokyonight)
+<![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirarafat&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
@@ -81,5 +81,4 @@
 
 ---
 
-### 💬 Quote
-### > _"Precision in layout is not just geometry — it’s the art of translating physics into silicon."_
+
